@@ -27,7 +27,7 @@ class MemberRepositoryTest {
         Member findMember = memberRepository.find(saveId);
 
         //then
-       
+
 
 
     }
